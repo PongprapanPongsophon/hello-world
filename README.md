@@ -2,8 +2,8 @@
 This repository is for practicing the GitHub Flow
 Dear Prof. 
 
-I truely enjoy exploring Git and Git Hub. I have been gaining understanding through good reading resources and interesting lab and hands on style like this activity. I want to learn more, understand and apply the knowledge to solving challening problems in the world of data. 
+I want to say again that I love this activity a lot. Although there are many new and difficult terms, I can gradually understand when I read and practice. Thank you so much for this wonderful learning experience. 
 
 Best wishes,
+
 Pong
-Pattaya, Chon Buri, Thailand
