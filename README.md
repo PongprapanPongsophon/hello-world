@@ -6,3 +6,4 @@ I truely enjoy exploring Git and Git Hub. I have been gaining understanding thro
 
 Best wishes,
 Pong
+Pattaya, Chon Buri, Thailand
